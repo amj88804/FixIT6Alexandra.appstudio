@@ -26,6 +26,14 @@
             "pets",
             "pets.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "pets",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
